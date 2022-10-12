@@ -1,0 +1,8 @@
+C:\Users\poynter_caleb\source\repos\Degubber\Degubber\bin\Debug\Degubber.exe.config
+C:\Users\poynter_caleb\source\repos\Degubber\Degubber\bin\Debug\Degubber.exe
+C:\Users\poynter_caleb\source\repos\Degubber\Degubber\bin\Debug\Degubber.pdb
+C:\Users\poynter_caleb\source\repos\Degubber\Degubber\obj\Debug\Debugger.csproj.AssemblyReference.cache
+C:\Users\poynter_caleb\source\repos\Degubber\Degubber\obj\Debug\Debugger.csproj.SuggestedBindingRedirects.cache
+C:\Users\poynter_caleb\source\repos\Degubber\Degubber\obj\Debug\Debugger.csproj.CoreCompileInputs.cache
+C:\Users\poynter_caleb\source\repos\Degubber\Degubber\obj\Debug\Degubber.exe
+C:\Users\poynter_caleb\source\repos\Degubber\Degubber\obj\Debug\Degubber.pdb

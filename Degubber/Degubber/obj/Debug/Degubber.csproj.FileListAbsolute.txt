@@ -1,0 +1,3 @@
+C:\Users\poynter_caleb\Source\Repos\Degubber\Degubber\obj\Debug\Degubber.csproj.AssemblyReference.cache
+C:\Users\poynter_caleb\Source\Repos\Degubber\Degubber\obj\Debug\Degubber.csproj.SuggestedBindingRedirects.cache
+C:\Users\poynter_caleb\Source\Repos\Degubber\Degubber\obj\Debug\Degubber.csproj.CoreCompileInputs.cache
